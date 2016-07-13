@@ -1,4 +1,4 @@
-# Angular 2 QuickStart Source
+# Angular 2 Simple App
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
@@ -7,9 +7,6 @@ It's been extended with testing support so you can start writing tests immediate
 
 **This is not the perfect arrangement for your application. It is not designed for production.
 It exists primarily to get you started quickly with learning and prototyping in Angular 2**
-
-We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
-Please keep that in mind before posting issues and PRs.
 
 ## Prerequisites
 
@@ -28,7 +25,7 @@ We recommend [nvm](https://github.com/creationix/nvm) for managing multiple vers
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```bash
-git clone  https://github.com/angular/quickstart  my-proj
+git clone  https://github.com/deryfebriantara/angular2-simpleApp  my-proj
 cd my-proj
 ```
 
